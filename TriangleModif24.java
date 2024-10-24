@@ -7,7 +7,8 @@ public class TriangleModif24 {
 
         // Meminta input dari pengguna
         System.out.print("Masukkan nilai N = ");
-        int N = sc.nextInt();
+        int N = sc.nextInt(); 
+        
 
         // Inisialisasi variabel untuk perulangan luar
         int i = 0;
